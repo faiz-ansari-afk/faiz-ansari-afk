@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mohd Faiz</h1>
 <h3 align="center">An aspiring full stack developer from India</h3>
 
-- 🌱 I’m currently learning **ReactJS, Javascript and DSA**
+- 🌱 **ReactJS, NextJS, Javascript and DSA**
 
 - 📫 How to reach me **mohdfaiz.afk@gmail.com**
 
-- ⚡ Fun fact **Raw Lemon (Kacha Limbu)**
+- ⚡ Fun fact **Raw Lemon**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
