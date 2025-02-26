@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on NextJS<br>👯 I’m looking to collaborate on Web Dev<br>🤝 I’m looking for help with Devops<br>🌱 I’m currently learning Devops<br>
+🔭 Current: React + Typescript<br>Role: Managing Admin Advertmingo (worldwide)<br>Plan: To become Devops<br>Status: Open for freelance<br>
 
 
 # 💻 Tech Stack:
