@@ -1,9 +1,45 @@
-# 💫 About Me:
-🔭 Current: React + Typescript<br>Role: Managing Admin Advertmingo (worldwide)<br>Plan: To become Devops<br>Status: Open for freelance<br>
+# Hi, I'm Faiz 👋
 
+**Fullstack Developer · Mumbai · Open to work**
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=plastic&logo=graphql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=plastic&logo=styled-components&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white)
+> Crafting end-to-end web products — from pixel-perfect UIs and scalable frontend architectures to backend APIs and databases. Currently at Kafas Software building production-grade fullstack applications.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+---
+
+## 🚀 Projects
+
+### [AdvertMingo](https://advertmingo.com/) · Live
+Multi-language ad management platform with role-based dashboards, campaign creation, and influencer tracking across global markets.
+`ReactJS` `TypeScript` `Spring Boot` `Vite` `Axios`
+
+---
+
+### [Realty Vision](https://github.com/faiz-ansari-afk/real-estate-register) · Code
+Property management system for UAE — salesman/broker commission tracking, HRM, monthly/yearly reports, and admin analytics. Multi-language support.
+`Next.js` `Strapi` `PostgreSQL` `TypeScript` `Shadcn`
+
+---
+
+### [Pasha Ecommerce (Kurtajee)](https://kurtajee.com/) · Live
+Full ecommerce storefront with PWA support, Firebase push notifications, SSR, ISG, and cross-browser responsive design.
+`Next.js` `Strapi` `Firebase` `Tailwind` `PostgreSQL`
+
+---
+
+### [RoastMaster](https://roastmaster-phi.vercel.app) · Side Project
+AI chatbot with Hinglish energy — roasts you back on every question. Persistent chat history via Firebase Firestore. Zero chill.
+`AI` `Firebase` `Vercel`
+
+---
+
+## 🛠 Stack
+
+`React` `Next.js` `TypeScript` `Node.js` `PostgreSQL` `Docker` `Firebase` `AWS / GCP` `GraphQL` `Redux` `Strapi` `Spring Boot`
+
+---
+
+## 📫 Connect
+
+- 📧 ansarifaiz183@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/mohd-faiz-ansari)
+- 🌐 [Portfolio](https://faiz-ansari-afk.github.io/portfolio-v3/)
